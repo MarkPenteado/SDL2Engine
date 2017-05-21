@@ -84,4 +84,4 @@ SDL2Engine in C
 - The eh effect based on the fps rate of the screen
 - It is possible to choose a speed for the effect of 0 to 255
 
-# MarkPenteado, 2016~2017, if you use it, keep the credits :D
+# MarkPenteado, 2016~2017, If you use one of my codes, please keep the credits :)
